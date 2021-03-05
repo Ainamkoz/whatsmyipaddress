@@ -1,0 +1,20 @@
+.leaflet-container {
+  width: 100vw; 
+  height: 100vh;
+}
+
+.App {
+  margin: 0px auto; 
+  margin-bottom: 100px;
+}
+
+.flag {
+  width: 150px;  
+  height: 150px; 
+}
+
+.popup ul li {
+  text-decoration: none;
+  list-style: none;
+  font-size: 16px; 
+}
